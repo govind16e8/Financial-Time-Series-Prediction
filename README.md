@@ -12,8 +12,8 @@ This project demonstrates how to use Long Short-Term Memory (LSTM) neural networ
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`
 
 ### Usage
-1. Place your financial dataset (`your_data.csv`) in the project directory.
-2. Update the file path in `financial_time_series_lstm.py`.
+1. Place your financial dataset `your_data.csv` in the project directory.
+2. Update the file path in `main.py`.
 3. Run the script to train the model and visualize predictions.
 
 ### Output
